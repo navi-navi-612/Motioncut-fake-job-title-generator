@@ -6,13 +6,13 @@ The *Fake Job Title Generator* is a light-hearted Python project that creates hi
 > 🔹 "Global Unicorn Engineer"  
 > 🔹 "Quantum Burrito Consultant"
 
-This project is a fun way to practice list handling, string concatenation, and using Python’s random module!
+This project randomly combines words from different categories such as adjectives, roles, and suffixes to form unique and quirky titles.
 
 ---
 
 ## 📌 Project Description
 
-This creative tool randomly combines words from different categories to form quirky job titles. Great for team-building, profile bios, or just a laugh!
+The main goal of this project is to help beginners practice list handling, random selection, and string manipulation in a simple and enjoyable way. It also encourages creativity and experimentation by allowing users to generate multiple combinations interactively.
 
 ---
 
